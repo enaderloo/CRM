@@ -1,0 +1,11 @@
+E:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Infrastructure.deps.json
+E:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Infrastructure.dll
+E:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Infrastructure.pdb
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.AssemblyInfo.cs
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.dll
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\refint\CRM.Infrastructure.dll
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.pdb
+E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\ref\CRM.Infrastructure.dll

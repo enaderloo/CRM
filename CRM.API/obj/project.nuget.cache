@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWmw0GZgUx4=",
+  "success": false,
+  "projectFilePath": "E:\\Projects\\CRM\\CRM.API\\CRM.API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.OpenApi (>= 9.0.1)' for 'net9.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, nuget.org, StimulReport.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

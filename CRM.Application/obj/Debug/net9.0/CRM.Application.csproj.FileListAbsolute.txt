@@ -1,0 +1,11 @@
+E:\Projects\CRM\CRM.Application\bin\Debug\net9.0\CRM.Application.deps.json
+E:\Projects\CRM\CRM.Application\bin\Debug\net9.0\CRM.Application.dll
+E:\Projects\CRM\CRM.Application\bin\Debug\net9.0\CRM.Application.pdb
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\CRM.Application.AssemblyInfoInputs.cache
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\CRM.Application.AssemblyInfo.cs
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\CRM.Application.csproj.CoreCompileInputs.cache
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\CRM.Application.dll
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\refint\CRM.Application.dll
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\CRM.Application.pdb
+E:\Projects\CRM\CRM.Application\obj\Debug\net9.0\ref\CRM.Application.dll
