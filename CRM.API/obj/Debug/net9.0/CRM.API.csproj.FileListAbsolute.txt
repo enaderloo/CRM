@@ -154,3 +154,11 @@ G:\Projects\CRM\CRM.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspac
 G:\Projects\CRM\CRM.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 G:\Projects\CRM\CRM.API\obj\Debug\net9.0\CRM.API.RazorAssemblyInfo.cache
 G:\Projects\CRM\CRM.API\obj\Debug\net9.0\CRM.API.RazorAssemblyInfo.cs
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\CRM\CRM.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

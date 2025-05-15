@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WN3lTZrj6SKzeXHFRoKqO9fWwdQJxdgY4pEU1Vqu9p0=",
+  "Source": "CRM.IdentityServer",
+  "BasePath": "_content/CRM.IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

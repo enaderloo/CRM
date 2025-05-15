@@ -1,9 +1,11 @@
 ﻿using CRM.Infrastructure.Persistence;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace CRM.API.Controllers
 {
+	[Authorize(Policy = "ApiScope")]
 	[Route("api/[controller]")]
 	[ApiController]
 	public class CustomerController : ControllerBase
@@ -14,11 +16,14 @@ namespace CRM.API.Controllers
 			_context = context;
 		}
 
-		[HttpGet]
-		public async Task<IActionResult> Get()
+		[HttpGet("customers")]
+		public async Task<IActionResult> GetCustomers()
 		{
 			var customers = await _context.Customers.ToListAsync();
 			return Ok(customers);
 		}
+
+		[HttpGet]
+		public IActionResult Get() => Ok("Secure Data");
 	}
 }

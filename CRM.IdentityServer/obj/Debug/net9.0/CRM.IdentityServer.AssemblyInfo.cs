@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.IdentityServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d2b1ea7d0a62927e6526102f00f2b4e5b41764")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f49cdac3e573e414b4058244d7cf4431330a85d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.IdentityServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.IdentityServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,22 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "CRM.API",
-    "version": "1.0"
+    "title": "CRM API",
+    "version": "v1"
   },
   "paths": {
+    "/api/Customer/customers": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Customer": {
       "get": {
         "tags": [
@@ -18,5 +30,19 @@
       }
     }
   },
-  "components": { }
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "توکن JWT رو اینجا وارد کن: \r\n\r\nBearer {token}",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

@@ -8,5 +8,15 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.API.Controllers.CustomerController",
+    "Method": "GetCustomers",
+    "RelativePath": "api/Customer/customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

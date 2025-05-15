@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CRM.API\\CRM.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CRM.IdentityServer\\CRM.IdentityServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
