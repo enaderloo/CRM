@@ -21,3 +21,7 @@ G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.dll
 G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\refint\CRM.Infrastructure.dll
 G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.pdb
 G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\ref\CRM.Infrastructure.dll
+G:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Domain.dll
+G:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Domain.pdb
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.csproj.AssemblyReference.cache
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infr.2D6F64BC.Up2Date

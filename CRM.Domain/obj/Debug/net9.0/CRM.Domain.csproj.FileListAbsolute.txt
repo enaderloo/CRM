@@ -21,3 +21,4 @@ G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.dll
 G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\refint\CRM.Domain.dll
 G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.pdb
 G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\ref\CRM.Domain.dll
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.csproj.AssemblyReference.cache
