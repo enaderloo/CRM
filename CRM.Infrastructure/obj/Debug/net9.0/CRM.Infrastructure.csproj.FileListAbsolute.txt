@@ -9,3 +9,15 @@ E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.dll
 E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\refint\CRM.Infrastructure.dll
 E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.pdb
 E:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\ref\CRM.Infrastructure.dll
+G:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Infrastructure.deps.json
+G:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Infrastructure.dll
+G:\Projects\CRM\CRM.Infrastructure\bin\Debug\net9.0\CRM.Infrastructure.pdb
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.AssemblyInfoInputs.cache
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.AssemblyInfo.cs
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.sourcelink.json
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.dll
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\refint\CRM.Infrastructure.dll
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\CRM.Infrastructure.pdb
+G:\Projects\CRM\CRM.Infrastructure\obj\Debug\net9.0\ref\CRM.Infrastructure.dll

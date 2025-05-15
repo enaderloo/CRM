@@ -9,3 +9,15 @@ E:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.dll
 E:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\refint\CRM.Shared.dll
 E:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.pdb
 E:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\ref\CRM.Shared.dll
+G:\Projects\CRM\CRM.Shared\bin\Debug\net9.0\CRM.Shared.deps.json
+G:\Projects\CRM\CRM.Shared\bin\Debug\net9.0\CRM.Shared.dll
+G:\Projects\CRM\CRM.Shared\bin\Debug\net9.0\CRM.Shared.pdb
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.AssemblyInfoInputs.cache
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.AssemblyInfo.cs
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.csproj.CoreCompileInputs.cache
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.sourcelink.json
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.dll
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\refint\CRM.Shared.dll
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\CRM.Shared.pdb
+G:\Projects\CRM\CRM.Shared\obj\Debug\net9.0\ref\CRM.Shared.dll

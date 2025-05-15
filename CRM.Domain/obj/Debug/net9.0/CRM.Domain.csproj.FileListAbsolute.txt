@@ -9,3 +9,15 @@ E:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.dll
 E:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\refint\CRM.Domain.dll
 E:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.pdb
 E:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\ref\CRM.Domain.dll
+G:\Projects\CRM\CRM.Domain\bin\Debug\net9.0\CRM.Domain.deps.json
+G:\Projects\CRM\CRM.Domain\bin\Debug\net9.0\CRM.Domain.dll
+G:\Projects\CRM\CRM.Domain\bin\Debug\net9.0\CRM.Domain.pdb
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.AssemblyInfoInputs.cache
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.AssemblyInfo.cs
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.csproj.CoreCompileInputs.cache
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.sourcelink.json
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.dll
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\refint\CRM.Domain.dll
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\CRM.Domain.pdb
+G:\Projects\CRM\CRM.Domain\obj\Debug\net9.0\ref\CRM.Domain.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj": {}
+    "G:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj": {
+    "G:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj",
+        "projectUniqueName": "G:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj",
         "projectName": "CRM.Domain",
-        "projectPath": "E:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj",
-        "packagesPath": "C:\\Users\\Ebrahim\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\CRM\\CRM.Domain\\obj\\",
+        "projectPath": "G:\\Projects\\CRM\\CRM.Domain\\CRM.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\Projects\\CRM\\CRM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ebrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +25,8 @@
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Projects\\symbon-backend\\packages\\stimul-report-nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Desktop 1403-08-07": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

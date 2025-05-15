@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CRM
+/CRM.API/bin/Debug/net9.0
+/CRM.API/obj/Debug/net9.0/ref
+/CRM.API/obj/Debug/net9.0/refint
+/CRM.API/obj/Debug/net9.0/staticwebassets
